@@ -11,6 +11,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\..\..\.vsRepos\Launcher\Backend\Backend.LIB\Backend.LIB.csproj" />
+    <ProjectReference Include="..\Backend.LIB\Demo.Server.Lib.csproj" />
     <ProjectReference Include="..\demo.client\demo.client.esproj">
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>

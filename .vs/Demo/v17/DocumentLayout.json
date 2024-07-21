@@ -1,9 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nicklas\\source\\repos\\Demo\\",
+  "WorkspaceRootPath": "C:\\Users\\Nicklas\\.vsRepos\\Demo.React\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1214C477-8A20-4B77-B059-EA80F78AD119}|demo.client\\demo.client.esproj|c:\\users\\nicklas\\source\\repos\\demo\\demo.client\\src\\pages\\api\\hello.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{7AABE9F1-D9B4-4D30-95B6-D9F76C67CAAD}|Demo.Server\\Demo.Server.csproj|c:\\users\\nicklas\\.vsrepos\\demo.react\\demo.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7AABE9F1-D9B4-4D30-95B6-D9F76C67CAAD}|Demo.Server\\Demo.Server.csproj|solutionrelative:demo.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B941FAC0-34EE-403A-9039-5281A45751C4}|Backend.LIB\\Demo.Server.Lib.csproj|c:\\users\\nicklas\\.vsrepos\\demo.react\\backend.lib\\models\\baserole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B941FAC0-34EE-403A-9039-5281A45751C4}|Backend.LIB\\Demo.Server.Lib.csproj|solutionrelative:backend.lib\\models\\baserole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B941FAC0-34EE-403A-9039-5281A45751C4}|Backend.LIB\\Demo.Server.Lib.csproj|c:\\users\\nicklas\\.vsrepos\\demo.react\\backend.lib\\models\\baseuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B941FAC0-34EE-403A-9039-5281A45751C4}|Backend.LIB\\Demo.Server.Lib.csproj|solutionrelative:backend.lib\\models\\baseuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1214C477-8A20-4B77-B059-EA80F78AD119}|demo.client\\demo.client.esproj|c:\\users\\nicklas\\.vsrepos\\demo.react\\demo.client\\src\\pages\\api\\hello.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{1214C477-8A20-4B77-B059-EA80F78AD119}|demo.client\\demo.client.esproj|solutionrelative:demo.client\\src\\pages\\api\\hello.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     }
   ],
@@ -19,19 +31,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "hello.ts",
-              "DocumentMoniker": "C:\\Users\\Nicklas\\source\\repos\\Demo\\demo.client\\src\\pages\\api\\hello.ts",
-              "RelativeDocumentMoniker": "demo.client\\src\\pages\\api\\hello.ts",
-              "ToolTip": "C:\\Users\\Nicklas\\source\\repos\\Demo\\demo.client\\src\\pages\\api\\hello.ts",
-              "RelativeToolTip": "demo.client\\src\\pages\\api\\hello.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-07-21T08:35:59.42Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nicklas\\.vsRepos\\Demo.React\\Demo.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Demo.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nicklas\\.vsRepos\\Demo.React\\Demo.Server\\appsettings.json",
+              "RelativeToolTip": "Demo.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-21T09:17:50.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseUser.cs",
+              "DocumentMoniker": "C:\\Users\\Nicklas\\.vsRepos\\Demo.React\\Backend.LIB\\Models\\BaseUser.cs",
+              "RelativeDocumentMoniker": "Backend.LIB\\Models\\BaseUser.cs",
+              "ToolTip": "C:\\Users\\Nicklas\\.vsRepos\\Demo.React\\Backend.LIB\\Models\\BaseUser.cs",
+              "RelativeToolTip": "Backend.LIB\\Models\\BaseUser.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T09:15:12.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseRole.cs",
+              "DocumentMoniker": "C:\\Users\\Nicklas\\.vsRepos\\Demo.React\\Backend.LIB\\Models\\BaseRole.cs",
+              "RelativeDocumentMoniker": "Backend.LIB\\Models\\BaseRole.cs",
+              "ToolTip": "C:\\Users\\Nicklas\\.vsRepos\\Demo.React\\Backend.LIB\\Models\\BaseRole.cs",
+              "RelativeToolTip": "Backend.LIB\\Models\\BaseRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T09:15:08.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "hello.ts",
+              "DocumentMoniker": "C:\\Users\\Nicklas\\.vsRepos\\Demo.React\\demo.client\\src\\pages\\api\\hello.ts",
+              "RelativeDocumentMoniker": "demo.client\\src\\pages\\api\\hello.ts",
+              "ToolTip": "C:\\Users\\Nicklas\\.vsRepos\\Demo.React\\demo.client\\src\\pages\\api\\hello.ts",
+              "RelativeToolTip": "demo.client\\src\\pages\\api\\hello.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-21T08:35:59.42Z",
+              "EditorCaption": ""
             }
           ]
         }
