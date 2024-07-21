@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:5173",
 "RedirectUrl": "",
 "LaunchCommand": "bun run dev -p 5173",
-"WorkingDirectory": "C:\\Users\\Nicklas\\source\\repos\\Demo\\Demo.Server\\..\\demo.client",
+"WorkingDirectory": "C:\\Users\\Nicklas\\.vsRepos\\Demo.React\\Demo.Server\\..\\demo.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

@@ -1264,7 +1264,7 @@
           }
         }
       },
-      "Backend.LIB/1.0.0": {
+      "Demo.Server.Lib/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
@@ -1279,10 +1279,10 @@
           "Swashbuckle.AspNetCore.SwaggerUI": "6.5.0"
         },
         "compile": {
-          "bin/placeholder/Backend.LIB.dll": {}
+          "bin/placeholder/Demo.Server.Lib.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Backend.LIB.dll": {}
+          "bin/placeholder/Demo.Server.Lib.dll": {}
         }
       }
     }
@@ -3614,15 +3614,16 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Backend.LIB/1.0.0": {
+    "Demo.Server.Lib/1.0.0": {
       "type": "project",
-      "path": "../../../../.vsRepos/Launcher/Backend/Backend.LIB/Backend.LIB.csproj",
-      "msbuildProject": "../../../../.vsRepos/Launcher/Backend/Backend.LIB/Backend.LIB.csproj"
+      "path": "../Backend.LIB/Demo.Server.Lib.csproj",
+      "msbuildProject": "../Backend.LIB/Demo.Server.Lib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Backend.LIB >= 1.0.0",
+      "C:\\Users\\.vsRepos\\Launcher\\Backend\\Backend.LIB\\Backend.LIB.csproj",
+      "Demo.Server.Lib >= 1.0.0",
       "Microsoft.AspNetCore.SpaProxy >= 8.*-*"
     ]
   },
@@ -3633,11 +3634,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nicklas\\source\\repos\\Demo\\Demo.Server\\Demo.Server.csproj",
+      "projectUniqueName": "C:\\Users\\Nicklas\\.vsRepos\\Demo.React\\Demo.Server\\Demo.Server.csproj",
       "projectName": "Demo.Server",
-      "projectPath": "C:\\Users\\Nicklas\\source\\repos\\Demo\\Demo.Server\\Demo.Server.csproj",
+      "projectPath": "C:\\Users\\Nicklas\\.vsRepos\\Demo.React\\Demo.Server\\Demo.Server.csproj",
       "packagesPath": "C:\\Users\\Nicklas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nicklas\\source\\repos\\Demo\\Demo.Server\\obj\\",
+      "outputPath": "C:\\Users\\Nicklas\\.vsRepos\\Demo.React\\Demo.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3659,8 +3660,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Nicklas\\.vsRepos\\Launcher\\Backend\\Backend.LIB\\Backend.LIB.csproj": {
-              "projectPath": "C:\\Users\\Nicklas\\.vsRepos\\Launcher\\Backend\\Backend.LIB\\Backend.LIB.csproj"
+            "C:\\Users\\.vsRepos\\Launcher\\Backend\\Backend.LIB\\Backend.LIB.csproj": {
+              "projectPath": "C:\\Users\\.vsRepos\\Launcher\\Backend\\Backend.LIB\\Backend.LIB.csproj"
+            },
+            "C:\\Users\\Nicklas\\.vsRepos\\Demo.React\\Backend.LIB\\Demo.Server.Lib.csproj": {
+              "projectPath": "C:\\Users\\Nicklas\\.vsRepos\\Demo.React\\Backend.LIB\\Demo.Server.Lib.csproj"
             }
           }
         }
@@ -3707,5 +3711,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Das Projekt \"C:\\Users\\.vsRepos\\Launcher\\Backend\\Backend.LIB\\Backend.LIB.csproj\" wurde nicht gefunden. Stellen Sie sicher, dass der Projektverweis gültig und die Projektdatei vorhanden ist.",
+      "libraryId": "C:\\Users\\.vsRepos\\Launcher\\Backend\\Backend.LIB\\Backend.LIB.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nicklas\\source\\repos\\Demo\\Demo.Server\\Demo.Server.csproj": {}
+    "C:\\Users\\Nicklas\\.vsRepos\\Demo.React\\Demo.Server\\Demo.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nicklas\\.vsRepos\\Launcher\\Backend\\Backend.LIB\\Backend.LIB.csproj": {
+    "C:\\Users\\Nicklas\\.vsRepos\\Demo.React\\Backend.LIB\\Demo.Server.Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nicklas\\.vsRepos\\Launcher\\Backend\\Backend.LIB\\Backend.LIB.csproj",
-        "projectName": "Backend.LIB",
-        "projectPath": "C:\\Users\\Nicklas\\.vsRepos\\Launcher\\Backend\\Backend.LIB\\Backend.LIB.csproj",
+        "projectUniqueName": "C:\\Users\\Nicklas\\.vsRepos\\Demo.React\\Backend.LIB\\Demo.Server.Lib.csproj",
+        "projectName": "Demo.Server.Lib",
+        "projectPath": "C:\\Users\\Nicklas\\.vsRepos\\Demo.React\\Backend.LIB\\Demo.Server.Lib.csproj",
         "packagesPath": "C:\\Users\\Nicklas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nicklas\\.vsRepos\\Launcher\\Backend\\Backend.LIB\\obj\\",
+        "outputPath": "C:\\Users\\Nicklas\\.vsRepos\\Demo.React\\Backend.LIB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -119,14 +119,14 @@
         }
       }
     },
-    "C:\\Users\\Nicklas\\source\\repos\\Demo\\Demo.Server\\Demo.Server.csproj": {
+    "C:\\Users\\Nicklas\\.vsRepos\\Demo.React\\Demo.Server\\Demo.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nicklas\\source\\repos\\Demo\\Demo.Server\\Demo.Server.csproj",
+        "projectUniqueName": "C:\\Users\\Nicklas\\.vsRepos\\Demo.React\\Demo.Server\\Demo.Server.csproj",
         "projectName": "Demo.Server",
-        "projectPath": "C:\\Users\\Nicklas\\source\\repos\\Demo\\Demo.Server\\Demo.Server.csproj",
+        "projectPath": "C:\\Users\\Nicklas\\.vsRepos\\Demo.React\\Demo.Server\\Demo.Server.csproj",
         "packagesPath": "C:\\Users\\Nicklas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nicklas\\source\\repos\\Demo\\Demo.Server\\obj\\",
+        "outputPath": "C:\\Users\\Nicklas\\.vsRepos\\Demo.React\\Demo.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -148,8 +148,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Nicklas\\.vsRepos\\Launcher\\Backend\\Backend.LIB\\Backend.LIB.csproj": {
-                "projectPath": "C:\\Users\\Nicklas\\.vsRepos\\Launcher\\Backend\\Backend.LIB\\Backend.LIB.csproj"
+              "C:\\Users\\.vsRepos\\Launcher\\Backend\\Backend.LIB\\Backend.LIB.csproj": {
+                "projectPath": "C:\\Users\\.vsRepos\\Launcher\\Backend\\Backend.LIB\\Backend.LIB.csproj"
+              },
+              "C:\\Users\\Nicklas\\.vsRepos\\Demo.React\\Backend.LIB\\Demo.Server.Lib.csproj": {
+                "projectPath": "C:\\Users\\Nicklas\\.vsRepos\\Demo.React\\Backend.LIB\\Demo.Server.Lib.csproj"
               }
             }
           }

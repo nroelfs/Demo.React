@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ECAMlFgmbmA=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Nicklas\\source\\repos\\Demo\\Demo.Server\\Demo.Server.csproj",
+  "dgSpecHash": "U+dXtt68u10=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Nicklas\\.vsRepos\\Demo.React\\Demo.Server\\Demo.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nicklas\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Nicklas\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
@@ -77,5 +77,15 @@
     "C:\\Users\\Nicklas\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\Nicklas\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Das Projekt \"C:\\Users\\.vsRepos\\Launcher\\Backend\\Backend.LIB\\Backend.LIB.csproj\" wurde nicht gefunden. Stellen Sie sicher, dass der Projektverweis gültig und die Projektdatei vorhanden ist.",
+      "libraryId": "C:\\Users\\.vsRepos\\Launcher\\Backend\\Backend.LIB\\Backend.LIB.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }
