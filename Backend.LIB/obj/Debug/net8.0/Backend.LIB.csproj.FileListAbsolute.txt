@@ -1,0 +1,15 @@
+C:\Users\Nicklas\.vsRepos\Launcher\Backend\Backend.LIB\bin\Debug\net8.0\Backend.LIB.deps.json
+C:\Users\Nicklas\.vsRepos\Launcher\Backend\Backend.LIB\bin\Debug\net8.0\Backend.LIB.runtimeconfig.json
+C:\Users\Nicklas\.vsRepos\Launcher\Backend\Backend.LIB\bin\Debug\net8.0\Backend.LIB.dll
+C:\Users\Nicklas\.vsRepos\Launcher\Backend\Backend.LIB\bin\Debug\net8.0\Backend.LIB.pdb
+C:\Users\Nicklas\.vsRepos\Launcher\Backend\Backend.LIB\obj\Debug\net8.0\Backend.LIB.csproj.AssemblyReference.cache
+C:\Users\Nicklas\.vsRepos\Launcher\Backend\Backend.LIB\obj\Debug\net8.0\Backend.LIB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicklas\.vsRepos\Launcher\Backend\Backend.LIB\obj\Debug\net8.0\Backend.LIB.AssemblyInfoInputs.cache
+C:\Users\Nicklas\.vsRepos\Launcher\Backend\Backend.LIB\obj\Debug\net8.0\Backend.LIB.AssemblyInfo.cs
+C:\Users\Nicklas\.vsRepos\Launcher\Backend\Backend.LIB\obj\Debug\net8.0\Backend.LIB.csproj.CoreCompileInputs.cache
+C:\Users\Nicklas\.vsRepos\Launcher\Backend\Backend.LIB\obj\Debug\net8.0\Backend.LIB.sourcelink.json
+C:\Users\Nicklas\.vsRepos\Launcher\Backend\Backend.LIB\obj\Debug\net8.0\Backend.LIB.dll
+C:\Users\Nicklas\.vsRepos\Launcher\Backend\Backend.LIB\obj\Debug\net8.0\refint\Backend.LIB.dll
+C:\Users\Nicklas\.vsRepos\Launcher\Backend\Backend.LIB\obj\Debug\net8.0\Backend.LIB.pdb
+C:\Users\Nicklas\.vsRepos\Launcher\Backend\Backend.LIB\obj\Debug\net8.0\Backend.LIB.genruntimeconfig.cache
+C:\Users\Nicklas\.vsRepos\Launcher\Backend\Backend.LIB\obj\Debug\net8.0\ref\Backend.LIB.dll
